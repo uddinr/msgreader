@@ -59,7 +59,7 @@ export default {
         '0c1f': 'senderEmail',
         '5d0a': 'creatorSMTPAddress',
         '5d0b': 'lastModifierSMTPAddress',
-        '1001': 'body',
+        '1013': 'body',
         '1000': 'bodyHtml',
         '007d': 'headers',
         '1009': 'compressedRtf',
