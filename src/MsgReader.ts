@@ -320,6 +320,15 @@ interface SomeOxProps {
    */
   body?: string;
 
+    /**
+   * Contains message body text in html format.
+   * 
+   * Target dataType = 'msg'.
+   * 
+   * @see https://github.com/HiraokaHyperTools/OXPROPS/blob/master/JSON/1013-PidTagBodyHtml.md
+   */
+  bodyHtml?: string;
+
   /**
    * Contains transport-specific message envelope information for email.
    * 
